@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "eubfr-consolidation-utils",
+  "version": "0.0.1",
+  "scripts": {
+    "createIndex": "node createIndex.js",
+    "push": "node push.js"
+  },
+  "dependencies": {
+    "aws-sdk": "2.344.0",
+    "aws4": "1.8.0",
+    "awscred": "1.4.1",
+    "dotenv": "6.1.0",
+    "elasticsearch": "15.2.0",
+    "http-aws-es": "6.0.0",
+    "split2": "3.1.0",
+    "through2-batch": "1.1.1"
+  },
+  "engines": {
+    "node": ">=8.0"
+  }
+}
