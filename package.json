@@ -18,5 +18,8 @@
   },
   "engines": {
     "node": ">=8.0"
+  },
+  "devDependencies": {
+    "xlsx": "0.14.1"
   }
 }
