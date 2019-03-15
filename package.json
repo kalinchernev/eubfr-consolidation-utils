@@ -3,7 +3,7 @@
   "name": "eubfr-consolidation-utils",
   "version": "0.0.1",
   "scripts": {
-    "createIndex": "node createIndex.js",
+    "parseInputFile": "INPUT_FILE=duplicates.xlsx node parseInputFile.js",
     "push": "node push.js"
   },
   "dependencies": {
