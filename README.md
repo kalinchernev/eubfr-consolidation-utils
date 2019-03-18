@@ -1,7 +1,7 @@
 # EUBFR Consolidation Utilities
 
 - Parses an input Excel file into a `.ndjson` one.
-- Reads `.ndjson` file and pours the data into Elasticsearch index
+- Reads `.ndjson` file and pours the data into an Elasticsearch index
 
 ## Get dependencies
 
